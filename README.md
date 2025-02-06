@@ -56,11 +56,9 @@ In this project, we aim to answer key questions, including:
 
 🔹 Future work could involve predicting video performance based on content attributes using Machine Learning.
 
-### 📂 Files & Notebooks
+## 📂 Files & Notebooks
 
 📄 YouTube_Analysis.ipynb → Full Python notebook with data collection, EDA, and visualizations.
-
-📄 data/youtube_videos.csv → Processed dataset.
 
 📄 images/ → Contains visualization images used in this report.
 
